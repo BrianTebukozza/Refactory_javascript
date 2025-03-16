@@ -1,3 +1,4 @@
+// this is an index js file
 console.log(1+1); //addition
 console.log("munir");
 
